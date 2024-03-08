@@ -11,7 +11,7 @@ This project comprises four DNA bases and generates an array containing 15 bases
 
 ### Dependencies
 
-* There are no prerequisites, libraries, OS version, etc., needed before installing program.
+* Program Requires Node.js for Execution.
 
 ### Installing
 
